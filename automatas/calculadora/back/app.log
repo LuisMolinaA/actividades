@@ -1,0 +1,86 @@
+2024-04-14 22:17:37,421 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:17:37,425 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:17:55,771 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\__init__.py', reloading
+2024-04-14 22:17:56,138 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:17:56,142 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:18:06,086 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:18:06,425 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:18:06,430 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:18:10,299 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:18:10,642 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:18:10,646 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:18:14,622 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:18:14,965 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:18:14,969 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:18:17,688 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:18:18,000 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:18:18,004 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:18:30,903 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Apr/2024 22:18:30] "[33mOPTIONS /api/calculate HTTP/1.1[0m" 404 -
+2024-04-14 22:19:31,196 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\__init__.py', reloading
+2024-04-14 22:19:31,538 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:19:31,542 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:19:50,971 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\__init__.py', reloading
+2024-04-14 22:19:51,323 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:19:51,327 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:20:03,578 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\__init__.py', reloading
+2024-04-14 22:20:03,932 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:20:03,938 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:20:13,075 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Apr/2024 22:20:13] "[33mOPTIONS /api/calculate HTTP/1.1[0m" 404 -
+2024-04-14 22:20:30,799 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [14/Apr/2024 22:20:30] "[33mOPTIONS /api/calculate HTTP/1.1[0m" 404 -
+2024-04-14 22:20:52,007 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\__init__.py', reloading
+2024-04-14 22:20:52,357 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:20:52,361 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:21:02,256 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:21:02,558 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:21:02,563 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:21:15,672 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Apr/2024 22:21:15] "[35m[1mOPTIONS /api/calculate HTTP/1.1[0m" 500 -
+2024-04-14 22:21:43,950 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-14 22:21:43,950 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-04-14 22:21:43,952 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:21:44,319 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:21:44,324 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:21:50,023 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Apr/2024 22:21:50] "[35m[1mOPTIONS /api/calculate HTTP/1.1[0m" 500 -
+2024-04-14 22:22:07,481 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:22:07,513 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:22:07,853 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:22:07,856 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:22:11,753 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:22:11,788 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:22:12,090 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:22:12,093 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:22:16,004 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:22:16,039 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:22:24,022 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-14 22:22:24,022 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-04-14 22:22:24,023 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:22:24,323 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:22:24,327 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:22:31,084 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [14/Apr/2024 22:22:31] "OPTIONS /api/calculate HTTP/1.1" 200 -
+2024-04-14 22:22:31,086 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [14/Apr/2024 22:22:31] "POST /api/calculate HTTP/1.1" 200 -
+2024-04-14 22:22:40,120 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [14/Apr/2024 22:22:40] "OPTIONS /api/calculate HTTP/1.1" 200 -
+2024-04-14 22:22:40,123 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [14/Apr/2024 22:22:40] "POST /api/calculate HTTP/1.1" 200 -
+2024-04-14 22:24:09,863 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:24:09,891 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:24:10,196 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:24:10,200 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:24:11,747 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:24:11,774 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:24:12,075 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:24:12,079 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:24:17,248 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\app\\routes.py', reloading
+2024-04-14 22:24:17,290 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:24:17,586 WARNING werkzeug MainThread :  * Debugger is active!
+2024-04-14 22:24:17,591 INFO werkzeug MainThread :  * Debugger PIN: 128-972-813
+2024-04-14 22:24:28,690 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\mauri\\OneDrive\\Escritorio\\Compilador\\Lexico_calculadora\\server.py', reloading
+2024-04-14 22:24:28,719 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:25:30,141 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:25:33,178 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:25:46,869 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:25:48,809 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:25:50,679 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:26:11,512 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:27:44,372 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:28:23,264 INFO werkzeug MainThread :  * Restarting with stat
+2024-04-14 22:28:47,733 INFO werkzeug MainThread :  * Restarting with stat
